@@ -1,0 +1,14 @@
+[
+  {
+    "path": "docs/assets/overview.svg",
+    "source": "New explanatory project-workflow diagram based on the committed source and documentation; not a screenshot or measured result."
+  },
+  {
+    "path": "docs/assets/notebook-1.png",
+    "source": "16_solar_battery_optimizer.ipynb, cell 8 (1-based), committed image/png output; not rerun"
+  },
+  {
+    "path": "docs/assets/notebook-2.png",
+    "source": "16_solar_battery_optimizer.ipynb, cell 13 (1-based), committed image/png output; not rerun"
+  }
+]
